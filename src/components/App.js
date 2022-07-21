@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Content from '../shared/layout/Content';
 import Header from '../shared/layout/Header';
+import Footer from '../shared/layout/Footer';
 
 import {element} from 'prop-types';
 
@@ -14,6 +15,7 @@ function App(props) {
         {/* Components */}
         {props.children}
       </Content>
+      <Footer/>
     </div>
   );
 

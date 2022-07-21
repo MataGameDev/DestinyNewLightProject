@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 /* imagenes de  las clases del juego Hechicero , Cazador y Titan */
 import Clases1 from '../../shared/images/clases1.jpg';
 import Clases2 from '../../shared/images/clases2.jpg';
@@ -210,7 +211,7 @@ function ComoJugar(props) {
                             <h3 class="card-text">Dirigete a la Torre para experimentar tus primeras misiones Guardian</h3>
                             <br/>
                             <br/>
-                            <a href="/Inicio" class="btn btn-dark">Volver al Inicio</a>
+                            <Link to={'/'} class="btn btn-info">Volver al Inicio</Link>
                             </div>
                     </div>
                     </div>

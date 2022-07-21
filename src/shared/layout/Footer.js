@@ -1,17 +1,11 @@
 import React from 'react';
+import './Footer.css'; 
 
 const Footer = () => {
    
-    const root = {
-        backgroundColor: '#14191e',
-        color: 'white',
-        position: 'absolute',
-        bottom: 0,
-        width: '100%',
-        height: '200px'
-    }
     return (
-        <footer style={root}>
+        <body class="d-flex flex-column min-vh-50">
+            <footer class="mt-auto" w-100 >
             &copy; Programacion Web ll  ({new Date().getFullYear()})
                 <br/>
                 Destiny 2 New Light Project
@@ -21,7 +15,8 @@ const Footer = () => {
                 Proyecto 4 Parcial
                 <br/>
                 React App 
-        </footer>
+            </footer>
+        </body>
     );
 
 }
