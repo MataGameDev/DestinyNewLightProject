@@ -14,14 +14,14 @@
 }
 
 .card-body{
-    background-color: rgb(67, 49, 131);
+    background-color: rgb(37, 46, 100);
     border-bottom-right-radius:90px;
     border-bottom-left-radius:90px;
     box-shadow: 10px 10px 10px 10px black;
 }
 
 .card{
-    background-color: rgb(67, 49, 131)
+    background-color: rgb(37, 46, 100)
 }
 
 .card-title{
@@ -36,7 +36,12 @@
 }
 
 .img-thumbnail{
-    background-color: rgb(67, 49, 131);
-    border-color: rgb(67, 49, 131);
+    background-color: rgb(37, 46, 100);
+    border-color: rgb(37, 46, 100);
+}
+
+.bold{
+    color:black;
+    box-shadow: 10px black;
 }
 
