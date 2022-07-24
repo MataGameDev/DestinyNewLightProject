@@ -258,6 +258,8 @@ function ComoJugar(props) {
                             <h1 class="card-text">Cuidate del vagabundo !!!</h1>
                             <br/>
                             <br/>
+                            <br/>
+                            <br/>
                             </div>
                     </div>
                     </div>
