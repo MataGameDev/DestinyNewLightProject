@@ -27,5 +27,66 @@ Programas de terceros para Links de imagenes :
 
 https://cutt.ly/es
 
+Control de Versiones :
+
+v.0.0.1
+
+    implementacion de las dependencias iniciales , creacion de las carpertas components y shared, ademas de crear los apartados routes e index
+
+v.0.0.2 
+ 
+    creacion de las carpertas images y layout
+
+v.0.1.0
+
+    implementacion de Header,Footer y Content, para establecer una Navbar apoyandose con los sistemas de routes 
+
+v.0.1.1
+
+    creacion de las carpetas ComoJugar, Error, Inicio, SistemaDeStats y Temporadas, todas estas a su vez con un archivo inicial con el nombre del apartado
+
+v.0.1.2
+
+    implementacion de routes a todas las pestañas relacionadas con las carpetas 
+
+v.0.1.3
+
+    manteniendo el Footer siempre abajo y terminando los diseños del inicio
+
+v.0.1.4
+
+    implementacion de carousel en el apartado de Como jugar
+
+v.0.1.5
+
+    Apartado de Como Jugar terminado
+
+v.0.1.6
+
+    Apartado de Temporadas e implementacion de PlaceHolders de las Cards
+
+v.0.1.7
+
+    Apartado de Temporadas incluye React-Player para mostrar videos junto con el material visual
+
+v.0.1.8
+
+    Apartado de Temporadas Terminado
+
+v.0.1.9
+
+    Apartado del Sistema de Stats acordeon simple e implementacion de banner de las armas
+
+v.0.2.0
+
+    texto del acordeon , funcionalidades de Drop / Collapse
+
+v.0.2.1
+
+    Apartado de Sistema de Stats Terminado
+
+v.1.0.0
+
+    Implementacion de detalles de Css y Proyecto Terminado
 
 
